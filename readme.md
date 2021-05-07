@@ -6,6 +6,9 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
+## There is another README
+Hey there if you look close i have added another .docx i.e Microsoft word file written about few things to review that i have done in this proejct.
+you can check it out and how the project was and about it's functionalities it's all listed out in that file check.
 
 ## About Laravel
 
